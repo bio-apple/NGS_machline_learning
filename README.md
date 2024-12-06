@@ -9,27 +9,27 @@ TensorFlow 1.0 版本采用静态计算图，2.0 版本之后也支持动态计�
 **PyTorch**:由 Facebook、NVIDIA、Twitter等公司开发维护的深度学习框架，其前身为Lua语言的Torch.
 PyTorch也是基于动态计算图的框架，在需要动态改变神经网络结构的任务中有着明显的优势.
 
-**TensorFlow**谷歌在生物信息学方向的应用有：
+## 2.谷歌与Illumina开发的生物信息工具，都利用了机器学习模型：CNN卷积神经网络(Convolutional Neural Network，CNN 或 ConvNet)
 
-Nucleus:https://github.com/google/nucleus
+### Nucleus:https://github.com/google/nucleus
 
-DeepVariant:https://github.com/google/deepvariant 
+### DeepVariant:https://github.com/google/deepvariant
 
-三分类：three-state (hom-ref, het, hom-alt) 
+    解析说明文档：https://google.github.io/deepvariant/posts/2020-02-20-looking-through-deepvariants-eyes/
+
+    三分类：three-state (hom-ref, het, hom-alt) 
 
 [Poplin R, Chang P C, Alexander D, et al. A universal SNP and small-indel variant caller using deep neural networks[J]. Nature biotechnology, 2018, 36(10): 983-987.](https://www.nature.com/articles/nbt.4235)
 
-AlphaMissense:https://github.com/google-deepmind/alphamissense
+### AlphaMissense:https://github.com/google-deepmind/alphamissense
 
-二分类：benign or pathogenic
+    二分类：benign or pathogenic
 
 [Cheng J, Novati G, Pan J, et al. Accurate proteome-wide missense variant effect prediction with AlphaMissense[J]. Science, 2023, 381(6664): eadg7492.](https://www.science.org/doi/10.1126/science.adg7492)
 
-## 2.CNN卷积神经网络(Convolutional Neural Network，CNN 或 ConvNet)
+### PrimateAI-3D
 
-DeepVariant、AlphaMissense、**PrimateAI-3D**都使用了CNN
-
-三分类问题：common variants、unknown human variants、pathogenicity
+    PrimateAI-3D三分类问题：common variants、unknown human variants、pathogenicity
 
 [Gao H, Hamp T, Ede J, et al. The landscape of tolerated genetic variation in humans and primates[J]. Science, 2023, 380(6648): eabn8153.](https://www.science.org/doi/10.1126/science.abn8197)
 
@@ -52,4 +52,6 @@ ImageNet的作用：
 Image Classification:https://cs231n.github.io/classification/
 
 教学视频:https://www.youtube.com/watch?v=OoUX-nOEjG0
+
+图片three color channels是指图片：Red,Green,Blue (or RGB for short)
 
