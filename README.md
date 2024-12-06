@@ -101,3 +101,8 @@ Image Classification:https://cs231n.github.io/classification/
 
 图片three color channels是指图片：Red,Green,Blue (or RGB for short)
 
+安装必要的库
+
+    pip3 install --upgrade pip
+    pip install tensorflow scikit-learn matplotlib
+
