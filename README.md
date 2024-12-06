@@ -15,7 +15,7 @@ Nucleus:https://github.com/google/nucleus
 
 DeepVariant:https://github.com/google/deepvariant 
 
-将变异检测转化为three-state (hom-ref, het, hom-alt) genotype classification problem三分类问题
+三分类：three-state (hom-ref, het, hom-alt) 
 
 Poplin R, Chang P C, Alexander D, et al. A universal SNP and small-indel variant caller using deep neural networks[J]. Nature biotechnology, 2018, 36(10): 983-987.
 
