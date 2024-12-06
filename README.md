@@ -11,12 +11,14 @@ PyTorch也是基于动态计算图的框架，在需要动态改变神经网络�
 
 Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生物信息工具都利用了，**CNN卷积神经网络(Convolutional Neural Network，CNN 或 ConvNet)**
 
+## 2.Nucleus:https://github.com/google/nucleus
+学习视频：https://www.youtube.com/watch?v=ichunwqCpe8
 
-### Nucleus:https://github.com/google/nucleus
+将比对文件图像化
 
-    
+![Consensus-Based Error Correction](./read-pileup.jpg)
 
-### DeepVariant:https://github.com/google/deepvariant
+## 3.DeepVariant:https://github.com/google/deepvariant
 
     解析说明文档：https://google.github.io/deepvariant/posts/2020-02-20-looking-through-deepvariants-eyes/
 
@@ -24,13 +26,13 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 [Poplin R, Chang P C, Alexander D, et al. A universal SNP and small-indel variant caller using deep neural networks[J]. Nature biotechnology, 2018, 36(10): 983-987.](https://www.nature.com/articles/nbt.4235)
 
-### AlphaMissense:https://github.com/google-deepmind/alphamissense
+## 4.AlphaMissense:https://github.com/google-deepmind/alphamissense
 
     二分类：benign or pathogenic
 
 [Cheng J, Novati G, Pan J, et al. Accurate proteome-wide missense variant effect prediction with AlphaMissense[J]. Science, 2023, 381(6664): eadg7492.](https://www.science.org/doi/10.1126/science.adg7492)
 
-### PrimateAI-3D
+## 5.PrimateAI-3D
 
     PrimateAI-3D三分类问题：common variants、unknown human variants、pathogenicity
 
