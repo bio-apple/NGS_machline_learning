@@ -9,7 +9,7 @@ TensorFlow 1.0 版本采用静态计算图，2.0 版本之后也支持动态计�
 **PyTorch**:由 Facebook、NVIDIA、Twitter等公司开发维护的深度学习框架，其前身为Lua语言的Torch.
 PyTorch也是基于动态计算图的框架，在需要动态改变神经网络结构的任务中有着明显的优势.
 
-我决定学习**TensorFlow**因为谷歌在生物信息学方向的应用有：
+**TensorFlow**谷歌在生物信息学方向的应用有：
 
 Nucleus:https://github.com/google/nucleus
 
