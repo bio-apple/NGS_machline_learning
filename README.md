@@ -33,11 +33,9 @@ DeepVariant、AlphaMissense、**PrimateAI-3D**都使用了CNN
 
 [Gao H, Hamp T, Ede J, et al. The landscape of tolerated genetic variation in humans and primates[J]. Science, 2023, 380(6648): eabn8153.](https://www.science.org/doi/10.1126/science.abn8197)
 
-
 ## 3.TensorFlow新手南：Keras
 
 https://www.tensorflow.org/?hl=zh-cn
-
 
 ## 4.ImageNet
 
@@ -50,3 +48,6 @@ ImageNet的作用：
 
 数据集：它为计算机视觉任务提供了大量标注数据，供研究人员和开发人员训练和评估机器学习模型。
 模型训练：许多成功的CNN模型（如AlexNet、VGG、ResNet等）都是基于ImageNet数据集训练的，这些模型的预训练权重常用于其他任务，如迁移学习。
+
+**k-Nearest Neighbor classifier**
+
