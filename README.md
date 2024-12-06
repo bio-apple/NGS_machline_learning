@@ -22,7 +22,8 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 三分类：three-state (hom-ref, het, hom-alt) 
 
 图像(100, 221, 6) corresponding to (height, width, channels)
-    6 channels:
+
+6 channels:
 
         Read base: different intensities represent A, C, G, and T.
     
@@ -36,11 +37,11 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
     
         Base differs from ref: White means the base is different from the reference, dark grey means the base matches the reference.
     
-   221 width:
+221 width:
 
         以变异位点为中心，左右碱基位置的跨度：221代表的窗口宽度
 
-   100:
+100 height:
 
         以变异位点为中心，过滤变异掉不可用reads,然后将剩下的reads按照行转化为图片
         filter away any unusable reads (see is_usable_read() below) if a read is
