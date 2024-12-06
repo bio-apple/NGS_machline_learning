@@ -1,6 +1,6 @@
 # 机器学习-学习笔记
 
-## 1.两个模块，选择模块
+## 1.TensorFlow and PyTorch
 
 **TensorFlow**:由 Google 公司开发的深度学习框架，可以在任意具 备 CPU 或者 GPU 的设备上运行.
 TensorFlow 的计算过程使用数据流图来表示.TensorFlow 的名字来源于其计算过程中的操作对象为多维数组，即张量(Ten-sor).
