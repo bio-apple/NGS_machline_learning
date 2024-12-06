@@ -15,10 +15,14 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 ## 2.[Nucleus](https://github.com/google/nucleus)
 学习视频：https://www.youtube.com/watch?v=ichunwqCpe8, 将比对文件图像化
 
-![Consensus-Based Error Correction](./read-pileup.jpg)
+![Consensus-Based Error Correction](./pic/Nucleus.jpg)
 
 ## 3.[DeepVariant](https://github.com/google/deepvariant)
+
+![work flow](./pic/DeepVariant-workflow.jpg)
+
 说明文档：https://google.github.io/deepvariant/posts/2020-02-20-looking-through-deepvariants-eyes/
+
 
 三分类：three-state (hom-ref, het, hom-alt) 
 
@@ -64,6 +68,12 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
             add_read(image, read, row_i)
             row_i += 1
         yield image
+
+示例
+
+![example](./pic/DeepVariant-2.png)
+
+![example](./pic/DeepVariant-1.png)
 
 
 [Poplin R, Chang P C, Alexander D, et al. A universal SNP and small-indel variant caller using deep neural networks[J]. Nature biotechnology, 2018, 36(10): 983-987.](https://www.nature.com/articles/nbt.4235)
