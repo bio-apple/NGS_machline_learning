@@ -1,6 +1,6 @@
 # 机器学习-学习笔记
 
-## 1.TensorFlow and PyTorch
+## 1.[TensorFlow](https://www.tensorflow.org/?hl=zh-cn) and [PyTorch](https://pytorch.ac.cn)
 
 **TensorFlow**:由 Google 公司开发的深度学习框架，可以在任意具备CPU或者GPU的设备上运行.
 TensorFlow 的计算过程使用数据流图来表示.TensorFlow 的名字来源于其计算过程中的操作对象为多维数组，即张量(Tensor).
