@@ -9,7 +9,7 @@ TensorFlow 1.0 版本采用静态计算图，2.0 版本之后也支持动态计�
 **PyTorch**:由 Facebook、NVIDIA、Twitter等公司开发维护的深度学习框架，其前身为Lua语言的Torch.
 PyTorch也是基于动态计算图的框架，在需要动态改变神经网络结构的任务中有着明显的优势.
 
-Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生物信息工具都利用了，**CNN卷积神经网络(Convolutional Neural Network，CNN 或 ConvNet)**
+Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生物信息工具都利用了，卷积神经网络(**Convolutional Neural Network,CNN 或 ConvNet**)
 
 ## 2.Nucleus:https://github.com/google/nucleus
 学习视频：https://www.youtube.com/watch?v=ichunwqCpe8, 将比对文件图像化
@@ -41,7 +41,7 @@ https://www.tensorflow.org/?hl=zh-cn
 
 ## 4.ImageNet
 
-项目由 李飞飞（Fei-Fei Li）教授领导，她是斯坦福大学的计算机科学教授，人工智能领域的知名学者。李飞飞教授与她的团队一起创建了ImageNet，目的是为计算机视觉领域提供一个大规模的、带标签的图像数据集，推动机器学习和深度学习技术在图像识别上的发展。
+项目由李飞飞（Fei-Fei Li）教授领导，她是斯坦福大学的计算机科学教授，人工智能领域的知名学者。李飞飞教授与她的团队一起创建了ImageNet，目的是为计算机视觉领域提供一个大规模的、带标签的图像数据集，推动机器学习和深度学习技术在图像识别上的发展。
 是一个大型的图像数据库，广泛用于计算机视觉领域，特别是在训练和评估深度学习模型（如卷积神经网络，CNN）时。它包含了超过 1400 万张带标签的图像，涵盖了大约 2 万多个不同的类别，包含各种各样的物体，如动物、植物、建筑、交通工具等。
 
 ImageNet 最著名的贡献之一是 ImageNet大规模视觉识别挑战赛（ILSVRC），这是一个年度竞赛，旨在测试图像分类和目标检测模型的性能。该竞赛自 2010年开始，每年都会吸引众多研究者提交他们的模型，推动了深度学习技术（尤其是CNN）的迅速发展。
