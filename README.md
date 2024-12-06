@@ -49,5 +49,7 @@ ImageNet的作用：
 数据集：它为计算机视觉任务提供了大量标注数据，供研究人员和开发人员训练和评估机器学习模型。
 模型训练：许多成功的CNN模型（如AlexNet、VGG、ResNet等）都是基于ImageNet数据集训练的，这些模型的预训练权重常用于其他任务，如迁移学习。
 
-**k-Nearest Neighbor classifier**
+Image Classification:https://cs231n.github.io/classification/
+
+教学视频:https://www.youtube.com/watch?v=OoUX-nOEjG0
 
