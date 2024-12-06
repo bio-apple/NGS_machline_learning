@@ -15,7 +15,14 @@ Nucleus:https://github.com/google/nucleus
 
 DeepVariant:https://github.com/google/deepvariant
 
+Poplin R, Chang P C, Alexander D, et al. A universal SNP and small-indel variant caller using deep neural networks[J]. Nature biotechnology, 2018, 36(10): 983-987.
+
 AlphaMissense:https://github.com/google-deepmind/alphamissense
+
+Cheng J, Novati G, Pan J, et al. Accurate proteome-wide missense variant effect prediction with AlphaMissense[J]. Science, 2023, 381(6664): eadg7492.
 
 ## 2.TensorFlow，选择CNN卷积神经网络(Convolutional Neural Network，CNN 或 ConvNet)
 
+DeepVariant、AlphaMissense、**PrimateAI-3D**都使用了CNN
+
+Gao H, Hamp T, Ede J, et al. The landscape of tolerated genetic variation in humans and primates[J]. Science, 2023, 380(6648): eabn8153.
