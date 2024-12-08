@@ -80,7 +80,9 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 ## 4.[AlphaMissense](https://github.com/google-deepmind/alphamissense)
 
-    二分类：benign or pathogenic
+### Overview of AlphaMissens
+
+![Overview of AlphaMissens](./AlphaMissense/Overview_of_AlphaMissens.jpg)
 
 [Cheng J, Novati G, Pan J, et al. Accurate proteome-wide missense variant effect prediction with AlphaMissense[J]. Science, 2023, 381(6664): eadg7492.](https://www.science.org/doi/10.1126/science.adg7492)
 
