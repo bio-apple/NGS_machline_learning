@@ -2,14 +2,14 @@
 
 ### 1.  传统机器学习的数据处理流程
 
-![tradition](./tradition.png)
+![tradition](../pic/tradition.png)
 
 ### 2.  深度学习的数据处理流程
 
 为了学习一种好的表示，需要构建具有一定“深度”的模型，并通过学习算法 来让模型自动学习出好的特征表示(从底层特征，到中层特征，再到高层特征)， 
 从而最终提升预测模型的准确率.所谓“深度”是指原始数据进行非线性特征转换的次数.深度学习采用的模型主要是*神经网络模型*
 
-![deep_learning](./deep_learning.png)
+![deep_learning](../pic/deep_learning.png)
 
 ### 3.  机器学习分类主要有
 
