@@ -33,7 +33,7 @@
 scikit-learn是一个通用的机器学习库，提供了包括分类、回归、聚类等在内的一系列传统机器学习算法。它更侧重于特征工程，需要用户自行对数据进行处理，如选择特征、压缩维度、转换格式等
 适合中小型、实用的机器学习项目，尤其是那些数据量不大但需要手动处理数据并选择合适模型的项目。这类项目往往在CPU上就可以完成，对硬件要求相对较低。
 
-## 4.[TensorFlow](https://www.tensorflow.org/?hl=zh-cn) and [PyTorch](https://pytorch.ac.cn)
+## 5.[TensorFlow](https://www.tensorflow.org/?hl=zh-cn) and [PyTorch](https://pytorch.ac.cn)
 
 **TensorFlow**:由 Google 公司开发的**深度学习框架**，可以在任意具备CPU或者GPU的设备上运行.
 TensorFlow 的计算过程使用数据流图来表示.TensorFlow 的名字来源于其计算过程中的操作对象为多维数组，即张量(Tensor).
@@ -45,12 +45,12 @@ PyTorch也是基于动态计算图的框架，在需要动态改变神经网络�
 Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生物信息工具都利用了，
 卷积神经网络(**Convolutional Neural Network,CNN 或 ConvNet**)
 
-## 5.[Nucleus](https://github.com/google/nucleus)
+## 6.[Nucleus](https://github.com/google/nucleus)
 学习视频：https://www.youtube.com/watch?v=ichunwqCpe8, 将比对文件图像化
 
 ![Consensus-Based Error Correction](./pic/Nucleus.jpg)
 
-## 6.[DeepVariant](https://github.com/google/deepvariant)
+## 7.[DeepVariant](https://github.com/google/deepvariant)
 
 ![work flow](./pic/DeepVariant-workflow.jpg)
 
@@ -111,7 +111,7 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 [Poplin R, Chang P C, Alexander D, et al. A universal SNP and small-indel variant caller using deep neural networks[J]. Nature biotechnology, 2018, 36(10): 983-987.](https://www.nature.com/articles/nbt.4235)
 
-## 7.[AlphaMissense](https://github.com/google-deepmind/alphamissense)
+## 8.[AlphaMissense](https://github.com/google-deepmind/alphamissense)
 
 ### Overview of AlphaMissens
 
@@ -121,7 +121,7 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 [Cheng J, Novati G, Pan J, et al. Accurate proteome-wide missense variant effect prediction with AlphaMissense[J]. Science, 2023, 381(6664): eadg7492.](https://www.science.org/doi/10.1126/science.adg7492)
 
-## 8.[PrimateAI-3D](https://primateai3d.basespace.illumina.com)
+## 9.[PrimateAI-3D](https://primateai3d.basespace.illumina.com)
 
     PrimateAI-3D三分类问题：common variants、unknown human variants、pathogenicity
 
