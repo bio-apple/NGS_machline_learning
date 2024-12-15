@@ -13,6 +13,8 @@
 
 ## 3.机器学习分类主要有
 
+![Machine_Learning_Algorithm_Cheat_Sheet](./pic/Machine_Learning_Algorithm_Cheat_Sheet.png)
+
 |学习类型| 	数据要求          | 	任务类型  |	主要用途|
 |-------|----------------|--------|-|
 |监督学习	| 大量带标签数据        | 	分类(Classification)、回归(Regression)	 |明确的预测任务|
