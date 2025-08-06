@@ -9,11 +9,9 @@
 为了学习一种好的表示，需要构建具有一定“深度”的模型，并通过学习算法 来让模型自动学习出好的特征表示(从底层特征，到中层特征，再到高层特征)， 
 从而最终提升预测模型的准确率.所谓“深度”是指原始数据进行非线性特征转换的次数.深度学习采用的模型主要是*神经网络模型*
 
-![deep_learning](DeepVariant/deep_learning.png)
+![deep_learning](pic/deep_learning.png)
 
 ## 3.机器学习分类主要有
-
-![Machine_Learning_Algorithm_Cheat_Sheet](./pic/Machine_Learning_Algorithm_Cheat_Sheet.png)
 
 |学习类型| 	数据要求          | 	任务类型  |	主要用途|
 |-------|----------------|--------|-|
@@ -30,12 +28,10 @@
 | 模型选择 |	选择性能最优的模型或参数|	网格搜索、随机搜索、交叉验证|	模型优化、性能评估、超参数调整|
 | 预处理  |	对数据进行清理、变换或编码，便于模型使用|	标准化、归一化、编码、缺失值填补|	数据归一化、分类特征处理、缺失值填补|
 
-## 4.[scikit-learn](https://scikit-learn.org)
+## 4.[scikit-learn](https://scikit-learn.org) 、[TensorFlow](https://www.tensorflow.org/?hl=zh-cn) and [PyTorch](https://pytorch.ac.cn)
 
-scikit-learn是一个通用的机器学习库，提供了包括分类、回归、聚类等在内的一系列传统机器学习算法。它更侧重于特征工程，需要用户自行对数据进行处理，如选择特征、压缩维度、转换格式等
+**scikit-learn**是一个通用的机器学习库，提供了包括分类、回归、聚类等在内的一系列传统机器学习算法。它更侧重于特征工程，需要用户自行对数据进行处理，如选择特征、压缩维度、转换格式等
 适合中小型、实用的机器学习项目，尤其是那些数据量不大但需要手动处理数据并选择合适模型的项目。这类项目往往在CPU上就可以完成，对硬件要求相对较低。
-
-## 5.[TensorFlow](https://www.tensorflow.org/?hl=zh-cn) and [PyTorch](https://pytorch.ac.cn)
 
 **TensorFlow**:由 Google 公司开发的**深度学习框架**，可以在任意具备CPU或者GPU的设备上运行.
 TensorFlow 的计算过程使用数据流图来表示.TensorFlow 的名字来源于其计算过程中的操作对象为多维数组，即张量(Tensor).
@@ -47,31 +43,12 @@ PyTorch也是基于动态计算图的框架，在需要动态改变神经网络�
 Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生物信息工具都利用了，
 卷积神经网络(**Convolutional Neural Network,CNN 或 ConvNet**)
 
--- [Nucleus](./Nucleus/README.md)
+## 5.生物信息学中的机器学习
 
--- [DeepVariant](./DeepVariant/README.md)
+- [Nucleus](./Nucleus/README.md)
 
--- [AlphaMissense](./AlphaMissense/README.md)
+- [DeepVariant](./DeepVariant/README.md)
 
--- [PrimateAI-3D](./PrimateAI-3D/README.md)
+- [AlphaMissense](./AlphaMissense/README.md)
 
-
-## 9.[ImageNet](https://www.image-net.org/update-mar-11-2021.php)
-
-项目由李飞飞（Fei-Fei Li）教授领导，她是斯坦福大学的计算机科学教授，人工智能领域的知名学者。李飞飞教授与她的团队一起创建了ImageNet，目的是为计算机视觉领域提供一个大规模的、带标签的图像数据集，推动机器学习和深度学习技术在图像识别上的发展。
-是一个大型的图像数据库，广泛用于计算机视觉领域，特别是在训练和评估深度学习模型（如卷积神经网络，CNN）时。它包含了超过 1400 万张带标签的图像，涵盖了大约 2 万多个不同的类别，包含各种各样的物体，如动物、植物、建筑、交通工具等。
-
-ImageNet 最著名的贡献之一是 ImageNet大规模视觉识别挑战赛（ILSVRC），这是一个年度竞赛，旨在测试图像分类和目标检测模型的性能。该竞赛自 2010年开始，每年都会吸引众多研究者提交他们的模型，推动了深度学习技术（尤其是CNN）的迅速发展。
-
-ImageNet的作用：
-
-数据集：它为计算机视觉任务提供了大量标注数据，供研究人员和开发人员训练和评估机器学习模型。
-模型训练：许多成功的CNN模型（如AlexNet、VGG、ResNet等）都是基于ImageNet数据集训练的，这些模型的预训练权重常用于其他任务，如迁移学习。
-
-机器学习slide在线链接：https://cs231n.stanford.edu/schedule.html
-
-Image Classification:https://cs231n.github.io/classification/
-
-教学视频:https://www.youtube.com/watch?v=OoUX-nOEjG0
-
-图片three color channels是指图片：Red,Green,Blue (or RGB for short)
+- [PrimateAI-3D](./PrimateAI-3D/README.md)
