@@ -50,7 +50,7 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 ## 6.[Nucleus](https://github.com/google/nucleus)
 学习视频：https://www.youtube.com/watch?v=ichunwqCpe8, 将比对文件图像化
 
-![Consensus-Based Error Correction](./pic/Nucleus.jpg)
+![Consensus-Based Error Correction](Nucleus/Nucleus.jpg)
 
 -- [DeepVariant](./DeepVariant/README.md)
 
