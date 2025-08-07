@@ -45,10 +45,10 @@ PyTorch也是基于动态计算图的框架，在需要动态改变神经网络�
 Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生物信息工具都利用了，
 卷积神经网络(**Convolutional Neural Network,CNN 或 ConvNet**)
 
-- [Nucleus](./Nucleus/README.md)
+- [Nucleus](./NGS/Nucleus/README.md)
 
-- [DeepVariant](./DeepVariant/README.md)
+- [DeepVariant](./NGS/DeepVariant/README.md)
 
-- [AlphaMissense](./AlphaMissense/README.md)
+- [AlphaMissense](./NGS/AlphaMissense/README.md)
 
-- [PrimateAI-3D](./PrimateAI-3D/README.md)
+- [PrimateAI-3D](./NGS/PrimateAI-3D/README.md)
