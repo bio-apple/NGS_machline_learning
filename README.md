@@ -37,6 +37,7 @@
 
 [1.target分布](demo_project/4-1.target_distribution.ipynb)<br>
 [2.数据缺失](demo_project/4-2.NA.ipynb)<br>
+[3.特征选取](demo_project/4-3.)
 
 ## 5:[TensorFlow:an open source machine learning framework for everyone](https://www.tensorflow.org/?hl=zh-cn)
 由Google公司开发的 **深度学习框架**，可以在任意具备CPU或者GPU的设备上运行.
