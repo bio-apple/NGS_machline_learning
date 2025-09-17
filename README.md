@@ -43,8 +43,7 @@ pip3 install -U scikit-learn
 TensorFlow 的计算过程使用数据流图来表示.TensorFlow 的名字来源于其计算过程中的操作对象为多维数组，即张量(Tensor).
 TensorFlow 1.0 版本采用静态计算图，2.0 版本之后也支持动态计算图.
 <pre>
-#直接安装tensorflow_decision_forests会自动兼容安装tensorflow、pandas、numpy
-pip3 install tensorflow_decision_forests --upgrade
+pip3 install tensorflow_decision_forests --upgrade #直接安装tensorflow_decision_forests会自动兼容安装tensorflow、pandas、numpy
 </pre>
 
 **PyTorch**:由 Facebook、NVIDIA、Twitter等公司开发维护的**深度学习框架**，其前身为Lua语言的Torch.
