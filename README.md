@@ -31,7 +31,9 @@
 ## 4.[scikit-learn](https://scikit-learn.org) 、[TensorFlow](https://www.tensorflow.org/?hl=zh-cn) and [PyTorch](https://pytorch.ac.cn)
 
 **scikit-learn:A set of python modules for machine learning and data mining.https://scikit-learn.org/stable/**
-
+<pre>
+pip3 install -U scikit-learn
+</pre>
 是一个通用的机器学习库，提供了包括分类、回归、聚类等在内的一系列传统机器学习算法。它更侧重于特征工程，需要用户自行对数据进行处理，如选择特征、压缩维度、转换格式等
 适合中小型、实用的机器学习项目，尤其是那些数据量不大但需要手动处理数据并选择合适模型的项目。这类项目往往在CPU上就可以完成，对硬件要求相对较低。
 
