@@ -23,6 +23,27 @@ Ames Housing 数据集（Ames Housing Dataset）是一个结构化数据集，�
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
+**简介**
+
+| 项目 | 内容 |
+| :--- | :--- |
+| **地点** | 美国爱荷华州 Ames 市 |
+| **年份** | 2006 年首次发布，后续更新 |
+| **样本数量** | **2930 条**<br>房屋交易记录（常用版本约 1460 条） |
+| **特征数量** | **79** 个解释变量<br>+ 1 个目标变量（房价） |
+| **目标变量** | SalePrice<br>—— 房屋最终销售价格（美元） |
+
+---
+
+**特征多样性**
+
+| 特征类型       | 示例 |
+|:-----------| :--- |
+| **数值型**    | 建造年份 (YearBuilt), 总面积 (GrLivArea), 卧室数量 (BedroomAbvGr) |
+| **类别型**    | 房屋类型 (HouseStyle), 街道材质 (Street), 屋顶样式 (RoofStyle) |
+| **有序型**    | 房屋状况评分 (OverallQual, OverallCond) |
+| **布尔/特殊值** | 是否有壁炉 (Fireplaces), 是否有地下室 (BsmtQual) |
+
 ## 学习参考链接
 
 https://www.kaggle.com/code/gusthema/house-prices-prediction-using-tfdf
