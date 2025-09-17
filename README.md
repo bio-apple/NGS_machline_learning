@@ -37,7 +37,7 @@
 
 #### 学习笔记
 
-[target_distribution](./test_data/1.target_distribution.ipynb)
+[target_distribution](./demo_project/1.target_distribution.ipynb)
 
 ### 4-2:TensorFlow:an open source machine learning framework for everyone. https://www.tensorflow.org/
 <br>
