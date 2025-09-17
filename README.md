@@ -30,12 +30,20 @@
 
 ## 4.[scikit-learn](https://scikit-learn.org) 、[TensorFlow](https://www.tensorflow.org/?hl=zh-cn) and [PyTorch](https://pytorch.ac.cn)
 
-**scikit-learn**是一个通用的机器学习库，提供了包括分类、回归、聚类等在内的一系列传统机器学习算法。它更侧重于特征工程，需要用户自行对数据进行处理，如选择特征、压缩维度、转换格式等
+**scikit-learn:A set of python modules for machine learning and data mining.https://scikit-learn.org/stable/**
+
+是一个通用的机器学习库，提供了包括分类、回归、聚类等在内的一系列传统机器学习算法。它更侧重于特征工程，需要用户自行对数据进行处理，如选择特征、压缩维度、转换格式等
 适合中小型、实用的机器学习项目，尤其是那些数据量不大但需要手动处理数据并选择合适模型的项目。这类项目往往在CPU上就可以完成，对硬件要求相对较低。
 
-**TensorFlow**:由 Google 公司开发的**深度学习框架**，可以在任意具备CPU或者GPU的设备上运行.
+**TensorFlow:an open source machine learning framework for everyone.https://www.tensorflow.org/**
+
+由 Google 公司开发的**深度学习框架**，可以在任意具备CPU或者GPU的设备上运行.
 TensorFlow 的计算过程使用数据流图来表示.TensorFlow 的名字来源于其计算过程中的操作对象为多维数组，即张量(Tensor).
 TensorFlow 1.0 版本采用静态计算图，2.0 版本之后也支持动态计算图.
+<pre>
+#直接安装tensorflow_decision_forests会自动兼容安装tensorflow、pandas、numpy
+pip3 install tensorflow_decision_forests --upgrade
+</pre>
 
 **PyTorch**:由 Facebook、NVIDIA、Twitter等公司开发维护的**深度学习框架**，其前身为Lua语言的Torch.
 PyTorch也是基于动态计算图的框架，在需要动态改变神经网络结构的任务中有着明显的优势.
