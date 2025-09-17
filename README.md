@@ -35,8 +35,8 @@
 
 ### 学习笔记
 
-[target分布](./demo_project/1.target_distribution.ipynb)<br>
-[数据缺失](./demo_project/2.NA.ipynb)<br>
+[1.target分布](demo_project/4-1.target_distribution.ipynb)<br>
+[2.数据缺失](demo_project/4-2.NA.ipynb)<br>
 
 ## 5:[TensorFlow:an open source machine learning framework for everyone](https://www.tensorflow.org/?hl=zh-cn)
 由Google公司开发的 **深度学习框架**，可以在任意具备CPU或者GPU的设备上运行.
@@ -44,7 +44,7 @@ TensorFlow 的计算过程使用数据流图来表示.TensorFlow 的名字来源
 TensorFlow 1.0 版本采用静态计算图，2.0 版本之后也支持动态计算图.
 
 ### 学习笔记
-[TensorFlow 决策森林](./demo_project/3.tensorflow_decision_forests.ipynb)
+[1.TensorFlow 决策森林](demo_project/5-1.tensorflow_decision_forests.ipynb)
 
 ## 6:[PyTorch](https://pytorch.ac.cn)
 由Facebook、NVIDIA、Twitter等公司开发维护的**深度学习框架**，其前身为Lua语言的Torch.
