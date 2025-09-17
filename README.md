@@ -29,7 +29,7 @@
 | 预处理  |	对数据进行清理、变换或编码，便于模型使用|	标准化、归一化、编码、缺失值填补|	数据归一化、分类特征处理、缺失值填补|
 
 
-## 4:scikit-learn:A set of python modules for machine learning and data mining. https://scikit-learn.org/stable/
+## 4:[scikit-learn:A set of python modules for machine learning and data mining](https://scikit-learn.org/stable/)
 <br>
 是一个通用的机器学习库，提供了包括分类、回归、聚类等在内的一系列传统机器学习算法。它更侧重于特征工程，需要用户自行对数据进行处理，如选择特征、压缩维度、转换格式等
 适合中小型、实用的机器学习项目，尤其是那些数据量不大但需要手动处理数据并选择合适模型的项目。这类项目往往在CPU上就可以完成，对硬件要求相对较低。
@@ -38,7 +38,7 @@
 
 [1.target_distribution](./demo_project/1.target_distribution.ipynb)
 
-## 5:TensorFlow:an open source machine learning framework for everyone. https://www.tensorflow.org/?hl=zh-cn
+## 5:[TensorFlow:an open source machine learning framework for everyone](https://www.tensorflow.org/?hl=zh-cn)
 <br>
 由 Google 公司开发的**深度学习框架**，可以在任意具备CPU或者GPU的设备上运行.
 TensorFlow 的计算过程使用数据流图来表示.TensorFlow 的名字来源于其计算过程中的操作对象为多维数组，即张量(Tensor).
@@ -47,7 +47,7 @@ TensorFlow 1.0 版本采用静态计算图，2.0 版本之后也支持动态计�
 ### 学习笔记
 [TensorFlow_decision_forests](./demo_project/3.tensorflow_decision_forests.ipynb)
 
-## 6:PyTorch:https://pytorch.ac.cn
+## 6:[PyTorch](https://pytorch.ac.cn)
 <br>
 由Facebook、NVIDIA、Twitter等公司开发维护的**深度学习框架**，其前身为Lua语言的Torch.
 PyTorch也是基于动态计算图的框架，在需要动态改变神经网络结构的任务中有着明显的优势.
