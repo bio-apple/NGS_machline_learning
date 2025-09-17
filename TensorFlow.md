@@ -51,3 +51,13 @@ https://www.kaggle.com/code/gusthema/house-prices-prediction-using-tfdf
 ## demo project:
 
 [3.Boston_House_Prices-tensorflow_decision_forests.ipynb](./demo_project/3.Boston_House_Prices-tensorflow_decision_forests.ipynb)
+
+## 软件安装
+
+<pre>
+# tensorflow_decision_forests 附带安装tensorflow、pandas、numpy
+pip3 install tensorflow_decision_forests --upgrade
+
+# seaborn: statistical data visualization 附带安装matplotlib
+pip3 install seaborn
+</pre>
