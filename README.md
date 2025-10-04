@@ -87,6 +87,12 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 ## 9.学习资源
 
+[菜鸟教程:Sklearn 教程](https://www.runoob.com/sklearn/sklearn-tutorial.html)
+
+[scikit-learn中文社区](https://scikit-learn.org.cn)
+
+[Google 机器学习教育](https://developers.google.com/machine-learning?hl=zh-cn)
+
 [2025 Stanford CS230:Deep learning](https://cs230.stanford.edu/syllabus/)
 
 [CS231n: Deep Learning for Computer Vision](https://cs231n.github.io)
