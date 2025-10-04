@@ -63,10 +63,7 @@ pip3 install seaborn
 
 ## 8.生物信息学中的机器学习
 
-Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生物信息工具都利用了，
-卷积神经网络(**Convolutional Neural Network,CNN 或 ConvNet**)
-
-<img src="./pic/ML_bioinformatics.png" height=800 width=700>
+Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生物信息工具都利用了，卷积神经网络(**Convolutional Neural Network,CNN 或 ConvNet**)
 
 - [Nucleus](./NGS/Nucleus/README.md)
 
@@ -75,3 +72,7 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 - [AlphaMissense](./NGS/AlphaMissense/README.md)
 
 - [PrimateAI-3D](./NGS/PrimateAI-3D/README.md)
+
+[Auslander N, Gussow A B, Koonin E V. Incorporating machine learning into established bioinformatics frameworks[J]. International journal of molecular sciences, 2021, 22(6): 2903.](https://www.mdpi.com/1422-0067/22/6/2903)
+
+<img src="./pic/ML_bioinformatics.png" height=800 width=700>
