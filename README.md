@@ -84,3 +84,15 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 - [AlphaMissense](./NGS/AlphaMissense/README.md)
 
 - [PrimateAI-3D](./NGS/PrimateAI-3D/README.md)
+
+## 9.学习资源
+
+[2025 Stanford CS230:Deep learning](https://cs230.stanford.edu/syllabus/)
+
+[CS231n: Deep Learning for Computer Vision](https://cs231n.github.io)
+
+[Kaggle](https://www.kaggle.com)
+
+[UC Irvine Machine Learning Repository](https://archive.ics.uci.edu)
+
+[Data Science and Data Mining courses at the University of Central Florida.](https://stars.library.ucf.edu/data-science-mining/)
