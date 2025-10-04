@@ -66,6 +66,8 @@ pip3 install seaborn
 Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生物信息工具都利用了，
 卷积神经网络(**Convolutional Neural Network,CNN 或 ConvNet**)
 
+<img src="./pic/ML_bioinformatics.png">
+
 - [Nucleus](./NGS/Nucleus/README.md)
 
 - [DeepVariant](./NGS/DeepVariant/README.md)
