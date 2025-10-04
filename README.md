@@ -44,7 +44,8 @@ TensorFlow 的计算过程使用数据流图来表示.TensorFlow 的名字来源
 TensorFlow 1.0 版本采用静态计算图，2.0 版本之后也支持动态计算图.
 
 ### 学习笔记
-[1.TensorFlow 决策森林](demo_project/5-1.tensorflow_decision_forests.ipynb)
+
+- [1.TensorFlow 决策森林](demo_project/5-1.tensorflow_decision_forests.ipynb)
 
 ## 6:[PyTorch](https://pytorch.ac.cn)
 由Facebook、NVIDIA、Twitter等公司开发维护的**深度学习框架**，其前身为Lua语言的Torch.
