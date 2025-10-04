@@ -63,7 +63,17 @@ pip3 install tensorflow_decision_forests --upgrade
 pip3 install seaborn
 </pre>
 
-## 8.生物信息学中的机器学习
+## 8.生物信息学
+
+[Auslander N, Gussow A B, Koonin E V. Incorporating machine learning into established bioinformatics frameworks[J]. International journal of molecular sciences, 2021, 22(6): 2903.](https://www.mdpi.com/1422-0067/22/6/2903)
+
+### 8-1.机器学习
+
+<img src="./pic/ML_bioinformatics.png">
+
+### 8-2.深度学习
+
+<img src="./pic/Deep_learning_bioinformatics.png" height=350 width=700>
 
 Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生物信息工具都利用了，卷积神经网络(**Convolutional Neural Network,CNN 或 ConvNet**)
 
@@ -74,7 +84,3 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 - [AlphaMissense](./NGS/AlphaMissense/README.md)
 
 - [PrimateAI-3D](./NGS/PrimateAI-3D/README.md)
-
-[Auslander N, Gussow A B, Koonin E V. Incorporating machine learning into established bioinformatics frameworks[J]. International journal of molecular sciences, 2021, 22(6): 2903.](https://www.mdpi.com/1422-0067/22/6/2903)
-
-<img src="./pic/ML_bioinformatics.png" height=800 width=700>
