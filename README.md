@@ -91,6 +91,8 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 [scikit-learn中文社区](https://scikit-learn.org.cn)
 
+[TensorFlow中文网](https://www.tensorflow.org/?hl=zh-cn)
+
 [Google 机器学习教育](https://developers.google.com/machine-learning?hl=zh-cn)
 
 [2025 Stanford CS230:Deep learning](https://cs230.stanford.edu/syllabus/)
