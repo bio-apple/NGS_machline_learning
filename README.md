@@ -46,7 +46,7 @@ TensorFlow 1.0 版本采用静态计算图，2.0 版本之后也支持动态计�
 ### 学习笔记
 
 - [1.TensorFlow 决策森林](demo_project/5-1.tensorflow_decision_forests.ipynb)
-- [2.mnist]
+- [2.mnist:深度学习的hello word](demo_project/5-2.mnist.ipynb)
 
 ## 6:[PyTorch](https://pytorch.ac.cn)
 由Facebook、NVIDIA、Twitter等公司开发维护的**深度学习框架**，其前身为Lua语言的Torch.
