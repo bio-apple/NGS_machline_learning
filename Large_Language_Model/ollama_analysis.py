@@ -30,6 +30,7 @@ def create_analysis_prompt(file_content):
     3. 禁止输出思考过程
     请直接给出分析结果：
     """
+    print(prompt)
     return prompt
 
 # 主分析函数
@@ -42,7 +43,7 @@ def analyze_metagenomics_sample(file_path):
 
     # 使用Ollama进行聊天分析
     response: ChatResponse = chat(
-        model='deepseek-r1',  # 或者你本地安装的其他模型，如 'mistral', 'qwen' 等
+        model='deepseek-r1:latest',  # 或者你本地安装的其他模型，如 'mistral', 'qwen' 等
         messages=[
             {
                 'role': 'user',
@@ -60,7 +61,7 @@ def analyze_metagenomics_sample(file_path):
 
 # 使用示例
 if __name__ == "__main__":
-    file_path = "/Users/yfan/Desktop/32.final.txt"  # 你的文件路径
+    file_path = "./test.txt"  # 你的文件路径
     result = analyze_metagenomics_sample(file_path)
     print("分析结果：")
     print(result)

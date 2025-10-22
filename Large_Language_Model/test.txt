@@ -1,0 +1,30 @@
+#ID	Avg_fold	Length	Ref_GC	Covered_percent	Covered_bases	Plus_reads	Minus_reads	Read_GC	Median_fold	Std_Dev
+PQ428138.1|Lymphocryptovirus humangamma4 isolate AA-65, complete genome	56.6403	168915	0.0000	84.7764	143200	31736	32602	0.5573	44
+MK973062.1|Human gammaherpesvirus 4 strain rMSHJ, complete genome	58.3010	164674	0.0000	90.2705	148652	32038	32432	0.5575	46
+PQ428130.1|Lymphocryptovirus humangamma4 isolate AA-56, complete genome	55.8287	171706	0.0000	85.5124	146830	31850	32731	0.5576	43
+PV296186.1|Coxsackievirus A6 isolate APK2242/NJ/CHN/2022, complete genome	3458.2821	7430	0.0000	100.0000	7430	87782	89069	0.4841	2836
+LC573552.1|Human gammaherpesvirus 4 sLCL-T12.18 DNA, complete genome	54.3878	183865	0.0000	80.7370	148447	33451	33770	0.5594	39
+NC_030454.1|Enterovirus A114 strain V13-0285, partial genome	1791.8781	7317	0.0000	66.6940	4880	45030	44488	0.4891	776
+AJ507799.2|Human herpesvirus 4 complete wild type genome	55.9405	171823	0.0000	86.1095	147956	31764	32658	0.5576	44
+DQ279927.1|Human herpesvirus 4 strain AG876, complete genome	57.4740	172764	0.0000	83.9469	145030	33452	33767	0.5594	42
+PQ428139.1|Lymphocryptovirus humangamma4 isolate AA-66, complete genome	56.4391	170424	0.0000	85.8911	146379	32019	32479	0.5575	44
+U05876.1|coxsackievirus A16 G-10, complete genome	1749.3207	7413	0.0000	65.4661	4853	44166	44092	0.4878	968
+MG298923.1|Human gammaherpesvirus 4 isolate IMS_Saliva_81_BWA, complete genome	58.7005	169864	0.0000	87.8915	149296	33469	33763	0.5594	44
+NC_001357.1|Human papillomavirus - 18, complete genome	0.4383	7857	0.0000	32.6333	2564	12	11	0.4064	0
+MZ629131.1|Rhinovirus A20 strain RvA20/USA/2021/B4Q4QT, complete genome	50.8215	7133	0.0000	99.0467	7065	1234	1251	0.4205	20
+AP019152.1|Human gammaherpesvirus 4 UPN431_CD19+ DNA, nearly complete genome	56.4615	165041	0.0000	83.6180	138004	31287	31741	0.5592	42
+LC573550.1|Human gammaherpesvirus 4 sLCL-T2.27 DNA, complete genome	58.0385	173173	0.0000	84.6650	146617	33814	34147	0.5595	44
+MG298918.1|Human gammaherpesvirus 4 isolate GK_LY91_BWA, complete genome	58.7059	169907	0.0000	86.9735	147774	33402	33836	0.5595	44
+LC573554.1|Human gammaherpesvirus 4 sLCL-T12.22 DNA, complete genome	56.1835	168759	0.0000	83.6098	141099	31673	32040	0.5573	43
+AP019088.1|Human gammaherpesvirus 4 UPN2_PBMC DNA, nearly complete genome	55.9376	153810	0.0000	86.4846	133022	28632	29144	0.5587	42
+KC207813.1|Human herpesvirus 4 strain Akata, complete genome	55.9244	171323	0.0000	84.2204	144289	32117	32397	0.5572	43
+KX125053.1|Human gammaherpesvirus 4 isolate YCCEL1, partial genome	56.5514	169122	0.0000	85.1261	143967	31888	32287	0.5569	44
+MG298920.1|Human gammaherpesvirus 4 isolate IMS_Saliva_187_BWA, complete genome	56.2502	171572	0.0000	85.6311	146919	32188	32613	0.5578	43
+AP019085.1|Human gammaherpesvirus 4 UPN19_PBMC DNA, nearly complete genome	55.4935	162206	0.0000	83.9112	136109	30010	30476	0.5569	43
+LC573553.1|Human gammaherpesvirus 4 sLCL-T12.20 DNA, complete genome	56.6056	170473	0.0000	85.2968	145408	32058	32412	0.5572	44
+AP019022.1|Human gammaherpesvirus 4 UPN1005_PBMC DNA, nearly complete genome	50.8436	132500	0.0000	82.4649	109266	22254	22586	0.5579	35
+LC573556.1|Human gammaherpesvirus 4 sLCL-T1.12 DNA, complete genome	57.0022	170672	0.0000	85.7147	146291	31993	32432	0.5572	44
+MG298927.1|Human gammaherpesvirus 4 isolate JC_VID14_BWA, complete genome	55.9385	171410	0.0000	90.3448	154860	31747	32650	0.5576	43
+AP019113.1|Human gammaherpesvirus 4 UPN266_PBMC DNA, nearly complete genome	56.1441	170486	0.0000	83.9471	143118	31931	32321	0.5570	43
+AB828191.1|Human herpesvirus 4 DNA, complete genome, strain: 1 LGY-Raji	55.2463	166107	0.0000	88.5339	147061	30275	30776	0.5573	43
+MG021305.1|Human gammaherpesvirus 4 isolate YCCEL1-GC1, complete genome	54.1201	177317	0.0000	85.9878	152471	31981	32354	0.5570	41
