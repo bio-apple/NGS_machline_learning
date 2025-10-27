@@ -1,5 +1,5 @@
 from ollama import chat, ChatResponse
-import os
+import os,argparse,sys
 
 os.environ['OLLAMA_GPU_METAL'] = '10'
 # 读取本地文件内容
@@ -61,7 +61,10 @@ def analyze_metagenomics_sample(file_path):
 
 # 使用示例
 if __name__ == "__main__":
-    file_path = "./test.txt"  # 你的文件路径
-    result = analyze_metagenomics_sample(file_path)
-    print("分析结果：")
-    print(result)
+    if len(sys.argv) == 2:
+        file_path = os.path.abspath(sys.argv[1])  # 你的文件路径
+        result = analyze_metagenomics_sample(file_path)
+        print("分析结果：")
+        print(result)
+    else:
+        print(f"\nusage:\npython3 {sys.argv[0]} /path/to/file_path")
