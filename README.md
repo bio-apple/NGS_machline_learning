@@ -106,6 +106,8 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 [Data Science and Data Mining courses at the University of Central Florida.](https://stars.library.ucf.edu/data-science-mining/)
 
+[Machine Learning Research at Apple](https://machinelearning.apple.com)
+
 ## 10.大语言模型
 
 [1.个人电脑运行大语言模型](./Large_Language_Model/README.ipynb)
