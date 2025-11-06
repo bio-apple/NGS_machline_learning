@@ -110,5 +110,5 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 ## 10.大语言模型
 
-[1.个人电脑运行大语言模型](./Large_Language_Model/README.ipynb)
+[1.个人电脑运行大语言模型](./Large_Language_Model/README.md)
 
