@@ -100,6 +100,8 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 [CS231n: Deep Learning for Computer Vision](https://cs231n.github.io)
 
+[Stanford CS231N Deep Learning for Computer Vision I 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
+
 [Kaggle](https://www.kaggle.com)
 
 [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu)
