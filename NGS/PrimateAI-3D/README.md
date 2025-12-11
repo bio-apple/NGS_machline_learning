@@ -4,6 +4,15 @@
 
 [Gao H, Hamp T, Ede J, et al. The landscape of tolerated genetic variation in humans and primates[J]. Science, 2023, 380(6648): eabn8153.](https://www.science.org/doi/10.1126/science.abn8197)
 
+## 蛋白质三维结构的层次构成
+
+| 层次 | 名称 | 内容 | 关键作用 |
+|------|------|------|----------|
+| 一级结构 | Primary structure | 氨基酸序列（线性排列） | 决定后续折叠和一级顺序，为更高层次结构提供基础 |
+| 二级结构 | Secondary structure | 局部折叠单元，例如 α-螺旋（α-helix）、β-折叠（β-sheet）、转角（turn）等 | 稳定局部构象，主要由主链间氢键维持 |
+| 三级结构 | Tertiary structure | 整个多肽链的三维折叠与结构域（domain）排列 | 决定蛋白功能位点和整体功能形态 |
+| 四级结构 | Quaternary structure | 多条多肽链（亚基）通过相互作用组装形成复合体 | 实现多亚基协同、调控与复杂功能（例如血红蛋白） |
+
 
 ## 常见三维数据格式
 
@@ -25,3 +34,5 @@
 | **深度学习/GNN** | **PyTorch / TensorFlow** | 深度学习框架，用于构建 3D 卷积网络 (3D CNN) 或处理体素化后的张量。 |
 | **深度学习/GNN** | **PyTorch Geometric (PyG)** | 专注于图神经网络 (GNN) 和非结构化 3D 数据（如点云）的处理。 |
 | **生物结构解析** | **Biopython / MDAnalysis** | 用于读取和解析 PDB/mmCIF 等生物大分子结构文件，提取原子坐标。 |
+
+
