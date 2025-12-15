@@ -40,6 +40,8 @@ CNN 用可学习的局部滤波器（卷积核）+ 下采样（池化）+ 非线
         ↓ 全连接层（1~2层）
         ↓ Softmax → 1000 类概率（比如 ImageNet）
 
+![PrimateAI-3D workflow](./workflow.png)
+
 ## 2:蛋白质三维结构的层次构成
 
 | 层次 | 名称 | 内容 | 关键作用 |
