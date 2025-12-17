@@ -84,6 +84,8 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 - [PrimateAI-3D](./NGS/PrimateAI-3D/README.md)
 
+- [NVIDIA:Parabricks](./NGS/Parabricks/README.md)
+
 <img src="./pic/Deep_learning_bioinformatics.png" height=350 width=700>
 
 ## 9.学习资源
