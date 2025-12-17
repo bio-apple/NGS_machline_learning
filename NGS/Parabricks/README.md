@@ -18,7 +18,7 @@
 | | **Ampere** | **A10** | 图形与AI推理融合，24GB GDDR6，云游戏/虚拟化 |
 | | **Ampere** | **A16** | 高密度VDI专用，4×16GB GDDR6，四芯片整合设计 |
 
-# 2.Parabricks 
+# 2.[Parabricks](https://docs.nvidia.com/clara/parabricks) 
 
 ![logo](./Parabricks.png)
 
