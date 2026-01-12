@@ -15,7 +15,7 @@
 ## 数学模型
 - elastic net regression
   - alpha parameter=0.5
-  - lambda value was chosen using cross-validation on the training data (lambda = 0.0226)
+  - use 10 fold cross validation to estimate the lambda parameter (lambda = 0.0226)
 
 ## 补充知识
 
