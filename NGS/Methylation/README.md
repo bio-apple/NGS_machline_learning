@@ -124,7 +124,16 @@
     # -------------------------------
     n_nonzero = np.sum(final_model.coef_ != 0)
     print(f"最终模型中非零系数的 CpG 位点个数: {n_nonzero} / {datMethTraining.shape[1]}")
+## R vs python 对照表
 
+| 任务类型             | R glmnet family       | Python sklearn 推荐类                          | 备注                              |
+|----------------------|-----------------------|------------------------------------------------|-----------------------------------|
+| 普通回归（连续目标） | gaussian             | ElasticNet / ElasticNetCV                      | 默认就是 gaussian                 |
+| 二分类               | binomial             | LogisticRegression(penalty='elasticnet')       | 不是 ElasticNet 而是 Logistic     |
+| 多分类               | multinomial          | LogisticRegression(multi_class='multinomial')  | —                                 |
+| 计数/稀疏正值        | poisson              | PoissonRegressor                               | —                                 |
+| 多目标回归           | mgaussian            | MultiTaskElasticNetCV                          | —                                 |
+| 生存分析             | cox                  | 无（用 lifelines / scikit-survival）           | glmnet 专有功能                   |
 
 ## 补充知识
 
