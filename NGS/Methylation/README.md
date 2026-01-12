@@ -2,7 +2,7 @@
 
 ## 文献来源
 
-[Horvath S. DNA methylation age of human tissues and cell types[J]. Genome biology, 2013, 14(10): 3156.]()
+[Horvath S. DNA methylation age of human tissues and cell types[J]. Genome biology, 2013, 14(10): 3156.](https://link.springer.com/article/10.1186/gb-2013-14-10-r115)
 
 
 ## 数据来源
@@ -42,4 +42,4 @@
 
 ## 拓展阅读
 
-Horvath S, Raj K. DNA methylation-based biomarkers and the epigenetic clock theory of ageing[J]. Nature reviews genetics, 2018, 19(6): 371-384.
+[Horvath S, Raj K. DNA methylation-based biomarkers and the epigenetic clock theory of ageing[J]. Nature reviews genetics, 2018, 19(6): 371-384.](https://www.nature.com/articles/s41576-018-0004-3)
