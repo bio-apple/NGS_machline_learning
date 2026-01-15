@@ -86,6 +86,8 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 - [NVIDIA:Parabricks](./NGS/Parabricks/README.md)
 
+- [methylation:epigenetic clock](./NGS/Methylation/README.md)
+
 <img src="./pic/Deep_learning_bioinformatics.png" height=350 width=700>
 
 ## 9.学习资源
