@@ -120,5 +120,5 @@ Google(**DeepVariant、AlphaMissense**)与Illumina(**PrimateAI-3D**)开发的生
 
 ## 11.AI编程
 
-[1.Claude Code学习笔记](./Claude_Code/README.md)
+[1.AI编程](./Claude_Code/README.md)
 
