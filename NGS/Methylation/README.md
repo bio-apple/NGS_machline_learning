@@ -9,6 +9,8 @@
 - Illumina 27K / 450K 甲基化芯片 
 - 涵盖 51 种健康组织和细胞类型
 
+最终筛选353 CpG sites
+
 ## 软件包
 - R package glmnet
 
